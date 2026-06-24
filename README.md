@@ -64,7 +64,7 @@ git status
 git pull
 
 4. Add a new line below: \
-WRITE A CONTROVERSIAL OPINION YOU HAVE HERE
+LeetCode interviews are a terrible metric for hiring engineers.They test algorithmic memorization under stress rather than actual building and collaboration skills.
 
 5. Add, commit, and push your changes:
   - git add README.md
